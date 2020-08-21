@@ -1,0 +1,6 @@
+#ignore pychache
+/__pycache__
+
+#ignore vscode and IPython checkpoints
+.vscode
+.ipynb_checkpoints
