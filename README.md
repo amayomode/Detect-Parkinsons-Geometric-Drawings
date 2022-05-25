@@ -1,4 +1,4 @@
-# Detect-Parkinsons-Geometric-Drawings
+# Detecting Parkinsons From Geometric Drawings
 This is an app that allows for the quick diagnosis of Parkinson's disease based on geometric drawings.
 
 The principle behind it is based on a study by [Zham et.al](https://www.frontiersin.org/articles/10.3389/fneur.2017.00435/full) where they found out that it was possible 
